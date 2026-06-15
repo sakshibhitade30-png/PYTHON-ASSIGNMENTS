@@ -18,7 +18,9 @@ print(id(x))
 '''
 
 #Output:-
-"C:\Users\Sakshi\Pictures\Screenshots\Screenshot 2026-06-15 173633.png"
+
+<img width="552" height="111" alt="Screenshot 2026-06-15 173633" src="https://github.com/user-attachments/assets/a3004a84-549c-47a8-91a2-37ab70a0d438" />
+
 
 
 Q6 - Accept Two Numbers and Perform Arithmetic Operations 
