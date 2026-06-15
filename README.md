@@ -9,13 +9,13 @@ Student Details
 Name: Sakshi Bhitade (ID:177)
 
 Program
-'''python
-x = 10
+```python
+   x = 10
 
 print(x)
 print(type(x))
 print(id(x))
-'''
+```
 
 #Output:-
 
@@ -28,7 +28,7 @@ Q6 - Accept Two Numbers and Perform Arithmetic Operations
 Write a program to accept two numbers from the user and print their addition, subtraction, multiplication, and division.
 
 Program
-'''python
+```python
 a = int(input("Enter first number: "))
 b = int(input("Enter second number: "))
 
@@ -36,23 +36,26 @@ print("Addition:", a + b)
 print("Subtraction:", a - b)
 print("Multiplication:", a * b)
 print("Division:", a / b)
-'''
+```
 
 #OUTPUT:-
 
-"C:\Users\Sakshi\Pictures\Screenshots\Screenshot 2026-06-15 173905.png"
+
+<img width="592" height="225" alt="Screenshot 2026-06-15 173905" src="https://github.com/user-attachments/assets/1a74b565-9f2c-4017-ac98-b9dc90f0c21f" />
 
 Q9 - Display Name and Next Year's Age
 
 Write a program to accept the user's name and age and display: "Hello , you will turn <Age+1> next year"
 
 Program
-'''python
+```python
 name = input("Enter your name: ")
 age = int(input("Enter your age: "))
 
 print("Hello", name + ", you will turn", age + 1, "next year.")
-'''
+```
 #OUTPUT:-
 
-"C:\Users\Sakshi\Pictures\Screenshots\Screenshot 2026-06-15 174052.png"
+
+<img width="517" height="150" alt="Screenshot 2026-06-15 174052" src="https://github.com/user-attachments/assets/3644ddc9-8feb-4769-adbb-cae467994972" />
+
